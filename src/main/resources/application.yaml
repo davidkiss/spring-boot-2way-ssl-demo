@@ -1,0 +1,9 @@
+ssl:
+  enable2way: true
+  overrideDefault: true
+  keystore:
+    path: /keystore.jks
+    password: password
+  truststore:
+    path: /truststore.jks
+    password: password
